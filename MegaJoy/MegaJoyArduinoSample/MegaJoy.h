@@ -42,6 +42,7 @@
  *      sexyControllerData.triangleOn = 1;   // Marks the triangle button as pressed
  *      sexyControllerData.squareOn = 0;     // Marks the square button as unpressed
  *      sexyControllerData.leftStickX = 90;  // Analog stick values can range from 0 - 255
+ *      
  */
 
 #ifndef UNOJOY_H
